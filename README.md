@@ -4,8 +4,12 @@ misgcode is fork from go ethereum
 Referece
 
 - Go Ethereum [github page](https://github.com/ethereum/go-ethereum) 
-- PBFT [paper](https://www.usenix.org/legacy/publications/library/proceedings/osdi99/full_papers/castro/castro.ps
-)
+
+- Hydrachain [github page](https://github.com/HydraChain/hydrachain)
+
+- PBFT [paper](https://www.usenix.org/legacy/publications/library/proceedings/osdi99/full_papers/castro/castro.ps)
+
+- Tendermint [paper](https://cdn.relayto.com/media/files/LPgoWO18TCeMIggJVakt_tendermint.pdf)
 
 
 
