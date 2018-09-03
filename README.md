@@ -5,8 +5,8 @@ misgcode is fork from go ethereum
 
  - [0.Introduction](/zh/Introduction.md) (簡介)
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
- - [2.](https://github.com/border) (编写go开发工具Vim和Emacs的设置)
- - [3.](https://github.com/OlingCat)(review代码)
+ - [2.Miner Code Analyze](/zh/) (编写go开发工具Vim和Emacs的设置)
+ - [3.Consesus Code Analyze](https://github.com/OlingCat)(review代码)
  - [4.](mailto:spadesacn@gmail.com)(提供一些图片展示)
  - [5.](https://github.com/polaris1119)(review书)
  - [6.](https://github.com/qyuhen)(review第二章)
@@ -32,16 +32,9 @@ misgcode is fork from go ethereum
 you can 
 # Multiple Language Versions
 
-
-# Donate
-
-AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
-
-English Donate:[donate](http://beego.me/donate)
-
 ## Community
 
-BBS：[http://gocn.io/](http://gocn.io/)
+E-mail：[jinwei's email ](sujianwei@gmail.com)
 
 ## Contributors
 
