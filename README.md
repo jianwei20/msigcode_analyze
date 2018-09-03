@@ -3,8 +3,8 @@ misgcode is fork from go ethereum
 
 ## Contents
 
- - [0.Introduction](https://plus.google.com/110445767383269817959) (review代码)
- - [1.Download and Executipn](https://github.com/hongruiqi) (review代码)
+ - [0.Introduction](/zh/Introduction.md) (簡介)
+ - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
  - [2.](https://github.com/border) (编写go开发工具Vim和Emacs的设置)
  - [3.](https://github.com/OlingCat)(review代码)
  - [4.](mailto:spadesacn@gmail.com)(提供一些图片展示)
