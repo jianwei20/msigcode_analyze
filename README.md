@@ -1,7 +1,11 @@
 # msigcode_analyze
 misgcode is fork from go ethereum 
 
-- Go Ethereum [contributors page](https://github.com/ethereum/go-ethereum) 
+Referece
+
+- Go Ethereum [github page](https://github.com/ethereum/go-ethereum) 
+- PBFT [paper](https://www.usenix.org/legacy/publications/library/proceedings/osdi99/full_papers/castro/castro.ps
+)
 
 
 
