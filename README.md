@@ -3,13 +3,13 @@ misgcode is fork from go ethereum
 
 ## Contents
 
- - [0](https://plus.google.com/110445767383269817959) (review代码)
+ - [0.Introduction](https://plus.google.com/110445767383269817959) (review代码)
  - [1.Download and Executipn](https://github.com/hongruiqi) (review代码)
- - [](https://github.com/border) (编写go开发工具Vim和Emacs的设置)
- - [](https://github.com/OlingCat)(review代码)
- - [Wenlei Wu](mailto:spadesacn@gmail.com)(提供一些图片展示)
- - [polaris](https://github.com/polaris1119)(review书)
- - [雨痕](https://github.com/qyuhen)(review第二章)
+ - [2.](https://github.com/border) (编写go开发工具Vim和Emacs的设置)
+ - [3.](https://github.com/OlingCat)(review代码)
+ - [4.](mailto:spadesacn@gmail.com)(提供一些图片展示)
+ - [5.](https://github.com/polaris1119)(review书)
+ - [6.](https://github.com/qyuhen)(review第二章)
 
 
 
@@ -40,7 +40,6 @@ AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
 English Donate:[donate](http://beego.me/donate)
 
 ## Community
-QQ群：148647580
 
 BBS：[http://gocn.io/](http://gocn.io/)
 
