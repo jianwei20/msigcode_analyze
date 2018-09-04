@@ -31,20 +31,12 @@ misgcode is fork from go ethereum
    [github page](https://github.com/tendermint/tendermint)
 
 
-
-you can 
 # Multiple Language Versions
 
 ## Community
 
-E-mail：[jinwei's email ](sujianwei@gmail.com)
+E-mail：jinwei's email(sujianwei@gmail.com)
 
 ## Contributors
 
 - See [contributors page](contributors.md) for full list of contributors.
-
-
-## License
-Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
-
-Code License: [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>)
