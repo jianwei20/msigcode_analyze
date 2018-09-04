@@ -41,7 +41,7 @@ E-mail：[jinwei's email ](sujianwei@gmail.com)
 
 ## Contributors
 
-- See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
+- See [contributors page](contributors.md) for full list of contributors.
 
 
 ## License
