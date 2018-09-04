@@ -1,6 +1,7 @@
 # msigcode_analyze
 misgcode is fork from go ethereum 
 
+
 ## Contents
 
  - [0.Introduction](/zh/Introduction.md) (簡介)
@@ -16,7 +17,8 @@ misgcode is fork from go ethereum
      [3.2](3.2)<br>
      [3.3](3.3)<br>
      
- - [4.](mailto:spadesacn@gmail.com)(提供一些图片展示)
+ - [4.]Experiment results()(實驗結果分享)
+ 
  - [5.](https://github.com/polaris1119)(review书)
  - [6.](https://github.com/qyuhen)(review第二章)
 
@@ -37,20 +39,13 @@ misgcode is fork from go ethereum
    [github page](https://github.com/tendermint/tendermint)
 
 
-
-you can 
 # Multiple Language Versions
 
-## Community
-
-E-mail：jinwei's email(sujianwei20@gmail.com)
 
 ## Contributors
 
 - See [contributors page](contributors.md) for full list of contributors.
 
+## Community
 
-## License
-Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
-
-Code License: [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>)
+E-mail：jinwei's email(sujianwei20@gmail.com)
