@@ -8,7 +8,7 @@ misgcode is fork from go ethereum
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
  
  - 2.Miner Code Analyze(ag)<br>
-     [2.1](2.1)<br>
+     [2.1](/zh/2.1 miner_agent.md)<br>
      [2.2](2.2)<br>
      [2.3](2.3)<br>
      
