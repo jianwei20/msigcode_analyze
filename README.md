@@ -35,7 +35,7 @@ misgcode is fork from go ethereum
 
 ## Community
 
-E-mail：jinwei's email(sujianwei@gmail.com)
+E-mail：jinwei's email(sujianwei20@gmail.com)
 
 ## Contributors
 
