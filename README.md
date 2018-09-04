@@ -5,7 +5,7 @@ misgcode is fork from go ethereum
 
  - [0.Introduction](/zh/Introduction.md) (簡介)
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
- - [2.Miner Code Analyze](/zh/) (编写go开发工具Vim和Emacs的设置)
+ - [2.Miner Code Analyze](编写go开发工具Vim和Emacs的设置)
      -[2.1](2.1)
      -[2.2](2.2)
      -[2.3](2.3)
