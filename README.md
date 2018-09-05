@@ -1,8 +1,8 @@
-# msigcode_analyze
+# Msigcode_analyze
   Misg-bft is fork from go ethereum,the system architecture follows NCCU-BFT and Hydrachain.
  
-<img src="/picture/01.png" style="zoom:50%" />
-### Ubuntu 16.04 64bit
+<img src="/picture/01.png" width = "300" height = "200" />
+
 
 ## Contents
 
