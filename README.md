@@ -13,11 +13,11 @@
      [2.1 miner/agent.go](/zh/2.1miner_agent.md)<br>
      [2.2 miner/miner.go](/zh/2.1miner_miner.md)<br>
  - [3.Consesus Code Analyze](/zh/3.Consesus_Code_Analyze.md)(共識演算法程式碼分析)<br> 
-     [3.1 consensus/bft/bft.go](/zh/3.1consensus/bft/bft.go)<br>
-     [3.2 consensus/bft/bft_manager.go](/zh/3.2bft.md)<br>
-     [3.3 consensus/bft/bft_peer.go](/zh/3.2bft.md)<br>
-     [3.4 consensus/bft/bft_handler.go](/zh/3.2bft.md)<br> 
-     [3.5consensus/bft/bft_protocol.go](3.1)<br>
+     [3.1 consensus/bft/bft.go](/zh/3.1consensus_bft_bft.md)<br>
+     [3.2 consensus/bft/bft_manager.go](/zh/3.2consensus_bft_bft_manager.md)<br>
+     [3.3 consensus/bft/bft_peer.go](/zh/3.3consensus_bft_bft_peer.md)<br>
+     [3.4 consensus/bft/bft_handler.go](/zh/3.4consensus_bft_bft_handler.md)<br> 
+     [3.5consensus/bft/bft_protocol.go](/zh/3.5consensus_bft_bft_protocol.md)<br>
      
  - [4.Experiment results]()(實驗結果分享)
  - [5.](https://github.com/polaris1119)(review书)
