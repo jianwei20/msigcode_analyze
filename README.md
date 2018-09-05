@@ -1,7 +1,7 @@
 # msigcode_analyze
   Misg-bft is fork from go ethereum,the system architecture follows NCCU-BFT and Hydrachain.
   
-![image](/picture/01.png)
+![image](/picture/01.png =100x100)
 
 ### Ubuntu 16.04 64bit
 
