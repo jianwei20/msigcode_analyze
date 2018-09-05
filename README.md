@@ -6,8 +6,8 @@
 
 ## Contents
 
- - [0.Introduction](/zh/Introduction.md) (簡介)
-     [0.1 Consensus Algorithm Introduction](/zh/3.2bft.md)(演算法簡介)<br>
+ - [0.Introduction](/zh/0.Introduction.md) (簡介)<br>
+     [0.1 Consensus Algorithm Introduction](/zh/0.1Consensus_Algorithm_Introduction.md)(演算法簡介)<br>
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
  - [2.Miner Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br>
      [2.1 miner/agent.go](/zh/3.2bft.md)<br>
