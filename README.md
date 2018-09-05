@@ -15,7 +15,7 @@ misgcode is fork from go ethereum
      
  - 3.Consesus Code Analyze()(共識演算法程式碼分析)<br>
      [3.1](3.1)<br>
-     [3.2](3.2)<br>
+     [3.2 consensus_bft_bft.go](/zh/3.2bft.md)<br>
      [3.3](3.3)<br>
      
  - [4.]Experiment results()(實驗結果分享)
