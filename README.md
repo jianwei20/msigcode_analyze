@@ -6,10 +6,10 @@ misgcode is fork from go ethereum
 
  - [0.Introduction](/zh/Introduction.md) (簡介)
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
- - 2.[Miner Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br>
+ - [2.Miner Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)
      [2.1 miner/agent](/zh/3.2bft.md)<br>
      [2.2 miner/miner.go](/zh/3.2bft.md)<br>
- - 3.[Consesus Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br>    
+ - [3.Consesus Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析) 
      [3.1 consensus/bft/bft.go](/zh/3.2bft.md)<br>
      [3.2 consensus/bft/bft_manager.go](/zh/3.2bft.md)<br>
      [3.3 consensus/bft/bft_peer.go](/zh/3.2bft.md)<br>
