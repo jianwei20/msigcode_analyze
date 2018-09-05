@@ -12,6 +12,7 @@
  - [2.Miner Code Analyze](/zh/2.Miner_Code_Analyze.md)(共識演算法程式碼分析)<br>
      [2.1 miner/agent.go](/zh/2.1miner_agent.md)<br>
      [2.2 miner/miner.go](/zh/2.1miner_miner.md)<br>
+     [2.3 miner/worker.go](/zh/2.1miner_worker.md)<br>
  - [3.Consesus Code Analyze](/zh/3.Consesus_Code_Analyze.md)(共識演算法程式碼分析)<br> 
      [3.1 consensus/bft/bft.go](/zh/3.1consensus_bft_bft.md)<br>
      [3.2 consensus/bft/bft_manager.go](/zh/3.2consensus_bft_bft_manager.md)<br>
