@@ -8,12 +8,12 @@
 
  - [0.Introduction](/zh/0.Introduction.md) (簡介)<br>
      [0.1 Consensus Algorithm Introduction](/zh/0.1Consensus_Algorithm_Introduction.md)(演算法簡介)<br>
- - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
- - [2.Miner Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br>
-     [2.1 miner/agent.go](/zh/3.2bft.md)<br>
-     [2.2 miner/miner.go](/zh/3.2bft.md)<br>
- - [3.Consesus Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br> 
-     [3.1 consensus/bft/bft.go](/zh/3.2bft.md)<br>
+ - [1.Download and Execution](/zh/1.Dowload_and_Execution.md) (程式下載及安裝執行)
+ - [2.Miner Code Analyze](/zh/2.Miner_Code_Analyze.md)(共識演算法程式碼分析)<br>
+     [2.1 miner/agent.go](/zh/2.1miner_agent.md)<br>
+     [2.2 miner/miner.go](/zh/2.1miner_miner.md)<br>
+ - [3.Consesus Code Analyze](/zh/3.Consesus_Code_Analyze.md)(共識演算法程式碼分析)<br> 
+     [3.1 consensus/bft/bft.go](/zh/3.1consensus/bft/bft.go)<br>
      [3.2 consensus/bft/bft_manager.go](/zh/3.2bft.md)<br>
      [3.3 consensus/bft/bft_peer.go](/zh/3.2bft.md)<br>
      [3.4 consensus/bft/bft_handler.go](/zh/3.2bft.md)<br> 
