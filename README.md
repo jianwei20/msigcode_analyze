@@ -1,5 +1,5 @@
 # msigcode_analyze
-misgcode is fork from go ethereum 
+  Misg-bft is fork from go ethereum,the system architecture follows NCCU-BFT and Hydrachain.
 
 
 ## Contents
