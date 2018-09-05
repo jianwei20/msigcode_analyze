@@ -7,6 +7,7 @@
 ## Contents
 
  - [0.Introduction](/zh/Introduction.md) (簡介)
+     [0.1 Consensus Algorithm Introduction](/zh/3.2bft.md)(演算法簡介)<br>
  - [1.Download and Execution](/zh/Dowload_and_Execution.md) (程式下載及安裝執行)
  - [2.Miner Code Analyze](/zh/Dowload_and_Execution.md)(共識演算法程式碼分析)<br>
      [2.1 miner/agent.go](/zh/3.2bft.md)<br>
@@ -18,7 +19,7 @@
      [3.4 consensus/bft/bft_handler.go](/zh/3.2bft.md)<br> 
      [3.5consensus/bft/bft_protocol.go](3.1)<br>
      
- - [4.]Experiment results()(實驗結果分享)
+ - [4.Experiment results]()(實驗結果分享)
  - [5.](https://github.com/polaris1119)(review书)
  - [6.](https://github.com/qyuhen)(review第二章)
 
