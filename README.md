@@ -1,10 +1,11 @@
 # Msigcode_analyze
-  Misg-bft is fork from go ethereum,the system architecture follows NCCU-BFT and Hydrachain.
+  Misg-bft is fork from go ethereum,the system architecture follows NCCU-BFT and Hydrachain.<br>
+  
  1.(Consensus Manager):The Consensus Manager is used to manager the height manager,The consensus manager also interacts with Miner Modul,to receive non-vaildated block and return vaildated block. Whenever the nodes receives a message with heigher block than current block,the consensus manager of two node call the synchronizer to request the block between two heights.
  
  2.(Height Manager):The Height Manager is used to process th data communication between Consensus Manager and Round Manager.The height manager sends the message from consensus manager to round manager.The height manager collects the data from round manager and send it to the consensus manager to be broadcasted or signed.
  
- 3.(Round Manager):
+ 3.(Round Manager):The Round Manager is used to process the consensus of given round at given height.........
 
 <img src="/picture/01.png" width = "500" height = "400" />
 
